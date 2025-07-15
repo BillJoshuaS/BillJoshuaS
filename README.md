@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @BillJoshuaS
-- 👀 I’m interested in Data Science and AI
-- 🌱 I’m currently learning advanced AI
+- 👀 I’m interested in Data Engineering and Programming
+- 🌱 I’m currently exploring and learning to gain deep knowledge on Data Engineering and Software Development
 - 📫 billjoshuasd@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: love to talk about technology and anime :)
+- ⚡ Fun fact: Love to talk about technology and sports :)
 
 <!---
 BillJoshuaS/BillJoshuaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
