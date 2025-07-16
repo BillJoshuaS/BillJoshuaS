@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BillJoshuaS
-- 👀 I’m interested in Data Engineering and Programming
-- 🌱 I’m currently exploring and learning to gain deep knowledge on Data Engineering and Software Development
-- 📫 billjoshuasd@gmail.com
-- 😄 Pronouns: He
+- Hi, I’m @BillJoshuaS
+- I’m interested in Data Engineering, Programming and AI
+- I’m currently exploring more to gain deep knowledge on Data Engineering and Software Development
+- billjoshuasd@gmail.com
 - ⚡ Fun fact: Love to talk about technology and sports :)
 
 <!---
